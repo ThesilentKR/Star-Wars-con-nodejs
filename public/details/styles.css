@@ -1,0 +1,13 @@
+body{
+    background-image: url("https://p4.wallpaperbetter.com/wallpaper/662/905/208/star-wars-movies-death-star-black-background-1920x1080-entertainment-movies-hd-art-wallpaper-preview.jpg");
+    background-size: cover;
+}
+
+img{
+    width: 70%; 
+    height: 70%;
+}
+.nav-icon{
+    width: 10%; 
+    height: 10%;
+}
